@@ -1,4 +1,4 @@
-package _10_Exception.Bai9;
+package _10_Exception.Bai09;
 
 public class BankAccount {
     private static double money = 10000000;
