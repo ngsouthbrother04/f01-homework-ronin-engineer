@@ -1,5 +1,4 @@
 package _11_DataStucture;
-
 public class Bai2 {
     public static int[] solve(int[] a) {
         int n = a.length;
