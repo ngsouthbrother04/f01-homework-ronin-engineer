@@ -3,6 +3,8 @@ package _07_Overview_OOP;
 public class SinhVien {
     private String hoTen, dc, email, sdt, MSSV;
 
+    public SinhVien() {}
+
     public SinhVien(String hoTen, String dc, String email, String sdt, String MSSV) {
         this.hoTen = hoTen;
         this.dc = dc;
