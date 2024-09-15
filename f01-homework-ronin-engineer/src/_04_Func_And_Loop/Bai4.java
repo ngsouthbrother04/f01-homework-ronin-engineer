@@ -8,6 +8,7 @@ public class Bai4 {
                     System.out.print(i * j + " : " + j + " = " + i + "\t");
                 }
             }
+
             System.out.println();
         }
     }
