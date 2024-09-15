@@ -1,4 +1,4 @@
-package _08_OOP.Bai2;
+package _08_OOP.Bai02;
 
 public interface ChucNang {
     void them(TaiLieu t);

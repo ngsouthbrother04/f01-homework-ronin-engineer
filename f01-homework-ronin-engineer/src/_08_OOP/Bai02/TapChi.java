@@ -1,4 +1,4 @@
-package _08_OOP.Bai2;
+package _08_OOP.Bai02;
 
 public class TapChi extends TaiLieu {
     private String soPhatHanh;

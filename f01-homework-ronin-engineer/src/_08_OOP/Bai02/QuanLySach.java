@@ -1,4 +1,4 @@
-package _08_OOP.Bai2;
+package _08_OOP.Bai02;
 
 import java.util.ArrayList;
 import java.util.Scanner;
