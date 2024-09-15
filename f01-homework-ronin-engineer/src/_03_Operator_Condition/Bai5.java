@@ -1,6 +1,6 @@
 package _03_Operator_Condition;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Bai5 {
     public static void main(String[] args) {
