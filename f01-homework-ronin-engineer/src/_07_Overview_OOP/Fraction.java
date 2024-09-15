@@ -4,6 +4,10 @@ public class Fraction {
     private int tu, mau;
     private boolean valid;
 
+    public Fraction() {
+
+    }
+
     public Fraction(int tu, int mau) {
         this.tu = tu;
         if(mau != 0) {
