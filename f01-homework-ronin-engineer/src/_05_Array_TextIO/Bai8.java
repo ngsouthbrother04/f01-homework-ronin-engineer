@@ -1,7 +1,6 @@
 package _05_Array_TextIO;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
 
 public class Bai8 {
     public static void main(String[] args) {
