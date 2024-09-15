@@ -1,4 +1,4 @@
-package _10_Exception.Bai10;
+package _10_Exception.B10;
 
 public class SinhVien {
     private String mssv, hoTen, lop;
