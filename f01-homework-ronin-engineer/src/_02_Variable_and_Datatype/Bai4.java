@@ -1,6 +1,6 @@
 package _02_Variable_and_Datatype;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Bai4 {
     public static long gt(int n) {
