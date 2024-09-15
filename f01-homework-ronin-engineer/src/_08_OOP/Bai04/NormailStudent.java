@@ -1,4 +1,4 @@
-package _08_OOP.Bai4;
+package _08_OOP.Bai04;
 
 public class NormailStudent extends ConNguoi {
     private int engScore;
