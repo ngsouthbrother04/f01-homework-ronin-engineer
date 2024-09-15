@@ -3,6 +3,8 @@ package _07_Overview_OOP;
 public class Circle {
     public double radius;
 
+    public Circle() {}
+
     public Circle(double radius) {
         this.radius = radius;
     }
