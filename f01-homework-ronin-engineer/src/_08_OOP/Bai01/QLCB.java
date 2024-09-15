@@ -1,9 +1,9 @@
-package _08_OOP.Bai1;
+package _08_OOP.Bai01;
 
 import java.util.*;
 
-public class QLCB implements _08_OOP.Bai1.ChucNang {
-    ArrayList<_08_OOP.Bai1.CanBo> ar;
+public class QLCB implements _08_OOP.Bai01.ChucNang {
+    ArrayList<_08_OOP.Bai01.CanBo> ar;
 
     @Override
     public void timKiem(String ten) {

@@ -1,4 +1,4 @@
-package _08_OOP.Bai1;
+package _08_OOP.Bai01;
 
 public class NhanVien extends CanBo {
     private String congViec;

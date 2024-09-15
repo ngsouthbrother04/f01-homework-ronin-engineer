@@ -1,4 +1,4 @@
-package _08_OOP.Bai1;
+package _08_OOP.Bai01;
 
 public interface ChucNang {
     void timKiem(String ten);
