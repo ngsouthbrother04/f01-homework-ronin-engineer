@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProject.iml" filepath="$PROJECT_DIR$/.idea/JavaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava/LearnJava.iml" filepath="$PROJECT_DIR$/LearnJava/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Overloading.iml" filepath="$PROJECT_DIR$/Overloading/Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overriding/Overriding.iml" filepath="$PROJECT_DIR$/Overriding/Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QL_MayTinh/QL_MayTinh.iml" filepath="$PROJECT_DIR$/QL_MayTinh/QL_MayTinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QL_RapPhim/QL_RapPhim.iml" filepath="$PROJECT_DIR$/QL_RapPhim/QL_RapPhim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QL_ThongTinSV/QL_ThongTinSV.iml" filepath="$PROJECT_DIR$/QL_ThongTinSV/QL_ThongTinSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TinhKeThua/TinhKeThua.iml" filepath="$PROJECT_DIR$/TinhKeThua/TinhKeThua.iml" />
+    </modules>
+  </component>
+</project>

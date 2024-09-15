@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LearnJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LearnJava/dist/LearnJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

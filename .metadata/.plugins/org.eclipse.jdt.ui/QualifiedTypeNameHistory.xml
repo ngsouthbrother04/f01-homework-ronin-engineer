@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="BUS.AccountBUS"/>
+    <fullyQualifiedTypeName name="DTO.AccountDTO"/>
+    <fullyQualifiedTypeName name="BUS.SanPhamBUS"/>
+    <fullyQualifiedTypeName name="DTO.SanPhamDTO"/>
+    <fullyQualifiedTypeName name="BUS.PhieuNhapBUS"/>
+    <fullyQualifiedTypeName name="DAO.PhieuNhapDAO"/>
+    <fullyQualifiedTypeName name="DTO.PhieuNhapDTO"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="javax.swing.JComboBox"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DTO.AccountDTO"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DAO.AccountDAO"/>
+    <fullyQualifiedTypeName name="com.quanlikho.Connect.ConnectJDBC"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DAO.TonKhoDAO"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.quanlikho.BUS.TonKhoBUS"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DTO.TonKhoDTO"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="org.openxmlformats.schemas.drawingml.x2006.main.CTTextListStyle"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DAO.ThongKeSanPhamDAO"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DTO.ThongKeSanPhamDTO"/>
+    <fullyQualifiedTypeName name="com.quanlikho.BUS.ThongKeTaiKhoanBUS"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.quanlikho.DTO.ThongKeTaiKhoanDTO"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>
