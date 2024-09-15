@@ -1,5 +1,4 @@
 package _11_DataStucture;
-
 import java.util.*;
 
 public class Bai4 {
