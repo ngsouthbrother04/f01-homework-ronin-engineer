@@ -1,5 +1,4 @@
 package _02_Variable_and_Datatype;
-
 import java.util.Scanner;
 
 public class Bai1 {
@@ -8,7 +7,7 @@ public class Bai1 {
 
         double inp = sc.nextDouble();
         double conv = inp * 2.54;
-
+        
         System.out.println("Gia tri chuyen doi: " + conv);
     }
 }
