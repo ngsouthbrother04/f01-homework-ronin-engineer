@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai3.StringBuilder;
+package _09_ClassDesign.Bai03.StringBuilder;
 
 import java.util.Scanner;
 
