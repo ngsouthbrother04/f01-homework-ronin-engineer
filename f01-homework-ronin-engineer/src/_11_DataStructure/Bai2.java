@@ -1,4 +1,4 @@
-package _11_DataStucture;
+package _11_DataStructure;
 
 public class Bai2 {
     public static int[] solve(int[] a) {

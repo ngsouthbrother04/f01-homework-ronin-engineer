@@ -1,4 +1,4 @@
-package _11_DataStucture;
+package _11_DataStructure;
 
 class DoubleNode {
     int data;
