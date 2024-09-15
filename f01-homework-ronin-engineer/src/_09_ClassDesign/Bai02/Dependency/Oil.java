@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai2.Dependency;
+package _09_ClassDesign.Bai02.Dependency;
 
 public class Oil {
     private String type;

@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai2.Aggregation;
+package _09_ClassDesign.Bai02.Aggregation;
 
 public class Human {
     private Hat h;

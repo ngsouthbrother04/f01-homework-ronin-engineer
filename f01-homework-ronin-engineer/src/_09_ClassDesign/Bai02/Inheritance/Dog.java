@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai2.Inheritance;
+package _09_ClassDesign.Bai02.Inheritance;
 
 public class Dog extends Animal {
     @Override
