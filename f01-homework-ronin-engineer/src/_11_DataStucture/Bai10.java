@@ -1,5 +1,6 @@
 package _11_DataStucture;
 
+
 class DoubleNode {
     int data;
     DoubleNode next;
