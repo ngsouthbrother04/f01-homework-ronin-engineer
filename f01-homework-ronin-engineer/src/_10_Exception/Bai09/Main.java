@@ -1,4 +1,4 @@
-package _10_Exception.Bai9;
+package _10_Exception.Bai09;
 
 import java.util.Scanner;
 

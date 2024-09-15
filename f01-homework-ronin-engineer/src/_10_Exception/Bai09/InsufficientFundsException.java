@@ -1,4 +1,4 @@
-package _10_Exception.Bai9;
+package _10_Exception.Bai09;
 
 public class InsufficientFundsException extends Exception {
     public InsufficientFundsException(String mess) {
