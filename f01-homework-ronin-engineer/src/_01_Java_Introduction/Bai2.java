@@ -1,3 +1,5 @@
+package _01_Java_Introduction;
+
 public class Bai2 {
     public static void main(String[] args) {
         System.out.println("    J     A     V    V    A");
