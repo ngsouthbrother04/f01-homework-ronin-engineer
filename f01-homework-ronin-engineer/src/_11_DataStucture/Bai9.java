@@ -1,5 +1,6 @@
 package _11_DataStucture;
 
+
 class Node {
     int data;
     Node next;
@@ -9,7 +10,6 @@ class Node {
         this.next = null;
     }
 }
-
 class SinglyLinkedList {
     private Node head;
 
