@@ -1,6 +1,7 @@
 package _10_Exception;
 
-import java.util.*;
+import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class Bai2 {
     public static void main(String[] args) {
