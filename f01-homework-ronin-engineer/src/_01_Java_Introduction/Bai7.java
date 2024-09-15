@@ -1,3 +1,5 @@
+package _01_Java_Introduction;
+
 public class Bai7 {
     public static void main(String[] args) {
         double v = 8.75 / 0.76;
