@@ -1,4 +1,4 @@
-package _10_Exception.Bai10;
+package _10_Exception.B10;
 
 import java.util.ArrayList;
 import java.util.Scanner;
