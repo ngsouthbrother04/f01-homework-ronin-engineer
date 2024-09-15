@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai2.Realization;
+package _09_ClassDesign.Bai02.Realization;
 
 public interface Runnalbe {
     void run();

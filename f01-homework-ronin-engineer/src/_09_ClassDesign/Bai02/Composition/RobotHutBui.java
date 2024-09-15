@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai2.Composition;
+package _09_ClassDesign.Bai02.Composition;
 
 public class RobotHutBui {
     private CamBien c;
