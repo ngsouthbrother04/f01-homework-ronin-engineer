@@ -1,4 +1,4 @@
-package _09_ClassDesign.Bai3.Wrapper;
+package _09_ClassDesign.Bai03.Wrapper;
 
 import java.util.Scanner;
 
