@@ -1,6 +1,6 @@
 package _04_Func_And_Loop;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Bai2 {
     public static int countVowels(String s) {
