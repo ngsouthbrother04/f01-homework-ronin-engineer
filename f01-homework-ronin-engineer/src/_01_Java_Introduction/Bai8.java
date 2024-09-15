@@ -1,3 +1,5 @@
+package _01_Java_Introduction;
+
 public class Bai8 {
     public static void main(String[] args) {
         double t = 45.0/60 + 30.0/3600;
