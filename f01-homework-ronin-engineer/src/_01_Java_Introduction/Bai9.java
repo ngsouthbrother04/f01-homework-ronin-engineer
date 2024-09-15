@@ -1,3 +1,5 @@
+package _01_Java_Introduction;
+
 public class Bai9 {
     public static void main(String[] args) {
         int giay = 365 * 24 * 60 * 60;
